@@ -7,4 +7,11 @@ import { lorem } from 'faker';
 })
 export class AppComponent {
   randomText = lorem.sentence();
+  solved = false;
+
+  onInput(value: string) {
+    if (value === this.randomText) {
+      this.solved = true;
+    }
+  }
 }
