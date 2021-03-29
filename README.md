@@ -4,7 +4,7 @@ This project made in Angular compare each word and return color GREEN if the ind
 
 Check the screenshots below
 
-![Typing Challenge Screenshot](src/assets/compareWordsFalse.png "Typing Challenge  screenshot")
+![Typing Challenge Screenshot](src/assets/compareWordsFalsy.png "Typing Challenge  screenshot")
 
 ![Typing Challenge Screenshot](src/assets/compareWordsTrue.png "Typing Challenge  screenshot")
 
